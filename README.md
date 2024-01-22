@@ -6,8 +6,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
-<br>
-
 - Regional Planner at the Lehigh Valley Planning Commission
 - Passionate about everything politics. Specialize in community development and housing policy.
 - Graduated from Lehigh University 22' with a bachelor's in Political Science and Journalism. Continued with a Masters of Public Policy 23'G.
