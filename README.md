@@ -9,7 +9,9 @@
 <br>
 
 - Regional Planner at the Lehigh Valley Planning Commission
-- Passionate about everything politics. Specialize in community development and housing policy. 
+- Passionate about everything politics. Specialize in community development and housing policy.
+- Graduated from Lehigh University 22' with a bachelor's in Political Science and Journalism. Continued with a Masters of Public Policy 23'G.
+- Love to play golf!
 - For futher details about my professional experience click [here!](https://docs.google.com/document/d/1zZ1_323fl-P2rZaln3ESVvGmRLeyc48-Di8QYhL7yDo/edit?usp=sharing)
 
 <br>
@@ -46,14 +48,6 @@
 <li>
 <a href="https://www.linkedin.com/in/joseph-dotta/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  JoeyDotta-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.instagram.com/joeydotta/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  joeydotta-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
