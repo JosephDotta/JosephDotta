@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi , I'm Joey Dotta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-	
+
+<img src="https://github.com/JosephDotta/JosephDotta/blob/main/ProHeadshot.jpeg" width="250" align=right>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Professional Experience**
 
 <br>
