@@ -4,17 +4,18 @@
 
 <img src="https://github.com/JosephDotta/JosephDotta/blob/main/ProHeadshot.jpeg" width="250" align=right>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Professional Experience**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 <br>
 
-- Passionate regional planner at the Lehigh Valley Planning Commission
-- Formerly covered Lehigh University sports and politics as a reporter
+- Regional Planner at the Lehigh Valley Planning Commission
+- Passionate about everything politics. Specialize in community development and housing policy. 
 - For futher details about my professional experience click [here!](https://docs.google.com/document/d/1zZ1_323fl-P2rZaln3ESVvGmRLeyc48-Di8QYhL7yDo/edit?usp=sharing)
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<br>
 
 ## Skills</b>
 
