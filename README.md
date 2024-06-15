@@ -7,34 +7,37 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 - Regional Planner at the Lehigh Valley Planning Commission
-- Passionate about everything politics. Specialize in community development and housing policy.
+- Passionate about community development and housing policy with an emphasis in the econometrics of development.
 - Graduated from Lehigh University 22' with a bachelor's in Political Science and Journalism. Continued with a Masters of Public Policy 23'G.
-- Love to play golf!
-- For futher details about my professional experience click [here!](https://docs.google.com/document/d/1zZ1_323fl-P2rZaln3ESVvGmRLeyc48-Di8QYhL7yDo/edit?usp=sharing)
+- Avid golfer!
+- For futher details about my professional experience click [here](https://docs.google.com/document/d/1zZ1_323fl-P2rZaln3ESVvGmRLeyc48-Di8QYhL7yDo/edit?usp=sharing)
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br>
 
-## Skills</b>
+## Softwares and Tools</b>
 
 <p align="center">
 
-- **Languages**:
-
+- **Proficient**:
+    - Microsoft Office Suite
+    - Google
+    - Notion
 <br>
 
-- **Softwares and Tools**:
+- **Intermediate**:
+    - ArcGIS
+    - HTML and Python
+    - French
 
 </p>
-
 <br>
 <br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
