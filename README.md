@@ -29,8 +29,6 @@
 
 - **Intermediate**:
     - ArcGIS
-    - HTML and Python
-    - French
 
 </p>
 <br>
