@@ -19,8 +19,6 @@
 
 ## Softwares and Tools</b>
 
-<p align="center">
-
 - **Proficient**:
     - Microsoft Office Suite
     - Google
@@ -29,10 +27,18 @@
 
 - **Intermediate**:
     - ArcGIS
+<br>
 
-</p>
-<br>
-<br>
+## Writing Samples</b>
+
+- **Pursuing my academic prowess**:
+    - [Brown and White Articles](https://thebrownandwhite.com/?s=Joey+Dotta)
+    - [Political Advocacy](https://www.ubilabnetwork.org/blog/ubi-in-america)
+    - [Media in Latin America](https://docs.google.com/document/d/e/2PACX-1vQtOy69MWrJxg_v2ihJyRORon3kzaqB02us2HkU5Y93eOjjmclzGnchz1E4ZpEWin1vAZK5rSDxiEXu/pub)
+    - [Residential Segregation in Las Vegas]
+
+- **Early Career**:
+    - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
 
 -----
 
