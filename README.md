@@ -7,8 +7,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 - Regional Planner at the Lehigh Valley Planning Commission
-- Passionate about community development and housing policy with an emphasis in the econometrics of development.
-- Graduated from Lehigh University 22' with a bachelor's in Political Science and Journalism. Continued with a Masters of Public Policy 23'G.
+- Passionate about equitable community development, the economics of urban planning and fostering regional relationships to make my neighborhood a better place. 
+- Graduated from Lehigh University 22' with a Bachelor's in Political Science and Journalism. Continued with a Master's of Public Policy 23'G.
 - Avid golfer!
 - For futher details about my professional experience click [here](https://docs.google.com/document/d/1zZ1_323fl-P2rZaln3ESVvGmRLeyc48-Di8QYhL7yDo/edit?usp=sharing)
 
@@ -21,8 +21,8 @@
 
 - **Proficient**:
     - Microsoft Office Suite
-    - Google
     - Notion
+    - Adobe Creative Studio
 <br>
 
 - **Intermediate**:
@@ -35,7 +35,6 @@
     - [Brown and White Articles](https://thebrownandwhite.com/?s=Joey+Dotta)
     - [Political Advocacy](https://www.ubilabnetwork.org/blog/ubi-in-america)
     - [Media in Latin America](https://docs.google.com/document/d/e/2PACX-1vQtOy69MWrJxg_v2ihJyRORon3kzaqB02us2HkU5Y93eOjjmclzGnchz1E4ZpEWin1vAZK5rSDxiEXu/pub)
-    - [Residential Segregation in Las Vegas]
 
 - **Early Career**:
     - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
