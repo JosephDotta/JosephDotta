@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JosephDotta/JosephDotta/blob/main/ProHeadshot.jpeg" width="250" align=right>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+## About Me
 
 - Regional Planner at the Lehigh Valley Planning Commission
 - Passionate about equitable community development, the economics of urban planning and fostering regional relationships to make my neighborhood a better place. 
@@ -15,18 +15,19 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <br>
 
 ## Softwares and Tools</b>
 
 - **Proficient**:
-    - Microsoft Office Suite
+    - Microsoft Office Suite Applications
     - Notion
-    - Adobe Creative Studio
 <br>
 
 - **Intermediate**:
     - ArcGIS
+    - Tableau
 <br>
 
 ## Writing Samples</b>
