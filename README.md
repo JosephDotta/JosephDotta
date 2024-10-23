@@ -40,6 +40,13 @@
 - **Early Career**:
     - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
 
+## Certificates
+- Srixon All-American Scholar, Lehigh University Men's Golf
+- Pennsylvania Municipal Planning Education Institute (PMPEI)
+    - Community Planning
+    - Zoning
+    - Subdivision and Land Development Ordinances
+
 -----
 
 <br>
