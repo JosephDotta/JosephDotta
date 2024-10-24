@@ -39,6 +39,7 @@
 
 - **Early Career**:
     - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
+<br>
 
 ## Certificates
 - Srixon All-American Scholar, Lehigh University Men's Golf
