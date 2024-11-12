@@ -22,12 +22,12 @@
 
 - **Proficient**:
     - Microsoft Office Suite Applications
-    - Notion
+    - ArcGIS
 <br>
 
 - **Intermediate**:
-    - ArcGIS
     - Tableau
+    - STATA
 <br>
 
 ## Writing Samples</b>
