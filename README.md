@@ -4,9 +4,8 @@
 
 ## About Me
 
-- Regional Planner at the Lehigh Valley Planning Commission
-- Passionate about equitable community development, the economics of urban planning and fostering regional relationships to make my neighborhood a better place. 
-- Graduated from Lehigh University 22' with a Bachelor's in Political Science and Journalism. Continued with a Master's of Public Policy 23'G.
+- Regional Planner with nearly two years of experience in land development reviews, housing policy, and the econometrics of the industrial market. Outgoing and skilled public speaker with education in journalism and public policy.
+- Learning QGIS, Markdown and Tableau
 - Avid golfer!
 - For futher details about my professional experience click [here](https://docs.google.com/document/d/e/2PACX-1vRGIZQFLIRe9USKOFvUnBl4G4P3v9MQz85ChKTRfCtlKIL5qEJDqngoZzkjtSxvYq0gE6D5vptzqPFB/pub)
 
@@ -14,18 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<br>
-
-## Softwares and Tools</b>
-
-- **Proficient**:
-    - Microsoft Office Suite Applications
-    - ArcGIS
-<br>
-
-- **Intermediate**:
-    - Tableau
-    - STATA
 <br>
 
 ## Writing Samples</b>
