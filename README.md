@@ -1,8 +1,6 @@
-<h1 align="center"><b>Hi , I'm Joey Dotta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Joey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-
-<img src="https://github.com/JosephDotta/JosephDotta/blob/main/ProHeadshot.jpeg" width="250" align=right>
 
 ## About Me
 
@@ -10,7 +8,7 @@
 - Passionate about equitable community development, the economics of urban planning and fostering regional relationships to make my neighborhood a better place. 
 - Graduated from Lehigh University 22' with a Bachelor's in Political Science and Journalism. Continued with a Master's of Public Policy 23'G.
 - Avid golfer!
-- For futher details about my professional experience click [here](https://docs.google.com/document/d/1zZ1_323fl-P2rZaln3ESVvGmRLeyc48-Di8QYhL7yDo/edit?usp=sharing)
+- For futher details about my professional experience click [here](https://docs.google.com/document/d/e/2PACX-1vRGIZQFLIRe9USKOFvUnBl4G4P3v9MQz85ChKTRfCtlKIL5qEJDqngoZzkjtSxvYq0gE6D5vptzqPFB/pub)
 
 <br>
 
@@ -41,16 +39,7 @@
     - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
 <br>
 
-## Certificates
-- Srixon All-American Scholar, Lehigh University Men's Golf
-- Pennsylvania Municipal Planning Education Institute (PMPEI)
-    - Community Planning
-    - Zoning
-    - Subdivision and Land Development Ordinances
-
 -----
-
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
