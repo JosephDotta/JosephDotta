@@ -16,7 +16,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## Writing Samples</b>
-
 - **Pursuing my academic prowess**:
     - [Brown and White Articles](https://thebrownandwhite.com/?s=Joey+Dotta)
     - [Political Advocacy](https://www.ubilabnetwork.org/blog/ubi-in-america)
@@ -24,15 +23,14 @@
 
 - **Early Career**:
     - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
-
 <br>
-## Projects</b>
 
+## Projects</b>
 - **Professional**:
     - [LVPC Housing Supply and Attainability Strategy](https://arcg.is/1fzqKz0)
- 
-- **Personal**</b>
-    - 
+
+- **Personal**:
+    - Under Construction
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
