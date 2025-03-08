@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Joey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">Regional Planner with nearly two years of experience in land development and zoning ordinance reviews, housing policy, real estate tax analysis, and the economics of the industrial market. Parlimentarian of an advisory body of appointed officials. 
+<p align="center">Regional Planner with nearly two years of experience in land development and zoning ordinance reviews, housing policy, real estate tax analysis, and the economics of the industrial market. Parlimentarian of an advisory body of appointed officials and engaged citizens. 
 <br>
 <br>
 
@@ -24,7 +24,15 @@
 
 - **Early Career**:
     - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
+
 <br>
+## Projects</b>
+
+- **Professional**:
+    - [LVPC Housing Supply and Attainability Strategy](https://arcg.is/1fzqKz0)
+ 
+- **Personal**</b>
+    - 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
