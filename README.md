@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Joey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">Welcome to my online portfolio! Below are samples of my writing throughout the years and some projects I've worked on. 
+<p align="center">Welcome to my online portfolio! 
 <br>
 <br>
 
@@ -28,6 +28,8 @@
 ## Projects</b>
 - **Professional**:
     - [LVPC Housing Supply and Attainability Strategy](https://arcg.is/1fzqKz0)
+    - [WDIY Plan Lehigh Valley Radio Show](https://www.wdiy.org/show/plan-lehigh-valley/2023-09-05/development-booms-housing-types-and-civil-dialogue-with-lvpcs-joey-dotta-plan-lehigh-valley)
+    - [WDIY Plan Lehigh Valley Radio Show](https://www.wdiy.org/show/plan-lehigh-valley/2023-09-05/development-booms-housing-types-and-civil-dialogue-with-lvpcs-joey-dotta-plan-lehigh-valley) 
 
 - **Personal**:
     - Under Construction
