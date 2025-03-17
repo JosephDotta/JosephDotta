@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Joey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">Regional Planner with nearly two years of experience in land development and zoning ordinance reviews, housing policy, real estate tax analysis, and the economics of the industrial market. Parlimentarian of an advisory body of appointed officials and engaged citizens. 
+<p align="center">Welcome to my online portfolio! Below are samples of my writing throughout the years and some projects I've worked on. 
 <br>
 <br>
 
@@ -8,8 +8,8 @@
 ## About Me
 
 - Outgoing and skilled public speaker with education in journalism and public policy from Lehigh University.
-- Learning QGIS and Tableau
-- Avid golfer!
+- Learning QGIS and Tableau. 
+- Avid golfer! 
 - For futher details about my professional experience click [here](https://docs.google.com/document/d/e/2PACX-1vRGIZQFLIRe9USKOFvUnBl4G4P3v9MQz85ChKTRfCtlKIL5qEJDqngoZzkjtSxvYq0gE6D5vptzqPFB/pub)
 <br>
 
