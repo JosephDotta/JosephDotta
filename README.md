@@ -28,8 +28,8 @@
 ## Projects</b>
 - **Professional**:
     - [LVPC Housing Supply and Attainability Strategy](https://arcg.is/1fzqKz0)
-    - [WDIY Plan Lehigh Valley Radio Show](https://www.wdiy.org/show/plan-lehigh-valley/2023-09-05/development-booms-housing-types-and-civil-dialogue-with-lvpcs-joey-dotta-plan-lehigh-valley)
-    - [WDIY Plan Lehigh Valley Radio Show](https://www.wdiy.org/show/plan-lehigh-valley/2023-09-05/development-booms-housing-types-and-civil-dialogue-with-lvpcs-joey-dotta-plan-lehigh-valley) 
+    - [WDIY Plan Lehigh Valley Radio Show (1st Time)](https://www.wdiy.org/show/plan-lehigh-valley/2023-09-05/development-booms-housing-types-and-civil-dialogue-with-lvpcs-joey-dotta-plan-lehigh-valley)
+    - [WDIY Plan Lehigh Valley Radio Show (2nd Time)](https://www.wdiy.org/show/plan-lehigh-valley/2023-09-05/development-booms-housing-types-and-civil-dialogue-with-lvpcs-joey-dotta-plan-lehigh-valley) 
 
 - **Personal**:
     - Under Construction
