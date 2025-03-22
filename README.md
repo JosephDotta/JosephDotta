@@ -32,7 +32,8 @@
     - [WDIY Plan Lehigh Valley Radio Show (2nd Time)](https://www.wdiy.org/show/plan-lehigh-valley/2023-09-05/development-booms-housing-types-and-civil-dialogue-with-lvpcs-joey-dotta-plan-lehigh-valley) 
 
 - **Personal**:
-    - Under Construction
+    - [Tableau Dashboards](https://public.tableau.com/app/profile/joey.dotta/vizzes)
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
