@@ -33,6 +33,7 @@
 
 - **Personal**:
     - [Tableau Dashboards](https://public.tableau.com/app/profile/joey.dotta/vizzes)
+    - [Videography](https://www.youtube.com/@dottadesignz)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
