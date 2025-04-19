@@ -34,6 +34,7 @@
 - **Personal**:
     - [Tableau Dashboards](https://public.tableau.com/app/profile/joey.dotta/vizzes)
     - [Videography](https://www.youtube.com/@dottadesignz)
+    - [Climate Resilience: Street Trees StoryMap](https://storymaps.arcgis.com/stories/cdf426bd6b504577a92de81981817b22)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
