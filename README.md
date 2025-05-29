@@ -7,8 +7,8 @@
 
 ## About Me
 
-- Outgoing and skilled public speaker with education in journalism and public policy from Lehigh University.
-- Learning QGIS and Tableau. 
+- Outgoing and skilled public speaker with education in journalism, political science and public policy from Lehigh University.
+- Currently buried in housing policy. 
 - Avid golfer! 
 - For futher details about my professional experience click [here](https://docs.google.com/document/d/e/2PACX-1vRGIZQFLIRe9USKOFvUnBl4G4P3v9MQz85ChKTRfCtlKIL5qEJDqngoZzkjtSxvYq0gE6D5vptzqPFB/pub)
 <br>
@@ -16,12 +16,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## Writing Samples</b>
-- **Pursuing my academic prowess**:
+- **Academic**:
     - [Brown and White Articles](https://thebrownandwhite.com/?s=Joey+Dotta)
     - [Political Advocacy](https://www.ubilabnetwork.org/blog/ubi-in-america)
     - [Media in Latin America](https://docs.google.com/document/d/e/2PACX-1vQtOy69MWrJxg_v2ihJyRORon3kzaqB02us2HkU5Y93eOjjmclzGnchz1E4ZpEWin1vAZK5rSDxiEXu/pub)
 
-- **Early Career**:
+- **Professional**:
     - [The Effectiveness of the Neighborhood Improvement Zone](https://allentownniz.com/2024/05/15/the-effectiveness-of-the-neighborhood-improvement-zone/)
 <br>
 
