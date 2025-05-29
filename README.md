@@ -8,7 +8,7 @@
 ## About Me
 
 - Outgoing and skilled public speaker with education in journalism, political science and public policy from Lehigh University.
-- Currently buried in housing policy. 
+- Currently burying myself in housing policy. 
 - Avid golfer! 
 - For futher details about my professional experience click [here](https://docs.google.com/document/d/e/2PACX-1vRGIZQFLIRe9USKOFvUnBl4G4P3v9MQz85ChKTRfCtlKIL5qEJDqngoZzkjtSxvYq0gE6D5vptzqPFB/pub)
 <br>
