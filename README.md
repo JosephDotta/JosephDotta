@@ -34,7 +34,6 @@ Check out my new dedicated portfolio page [here](https://josephdotta.super.site/
 
 - **Personal**:
     - [Tableau Dashboards](https://public.tableau.com/app/profile/joey.dotta/vizzes)
-    - [Videography](https://www.youtube.com/@dottadesignz)
     - [Climate Resilience: Street Trees StoryMap](https://storymaps.arcgis.com/stories/cdf426bd6b504577a92de81981817b22)
 <br>
 
