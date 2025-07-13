@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Joey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center"> Check out my new dedicated portfolio page [here](https://josephdotta.super.site/)
+<p align="center"> Check out my new dedicated portfolio page [here](https://josephdotta.super.site/) 
 <br>
 <br>
 
@@ -10,7 +10,7 @@
 - Outgoing and skilled public speaker with education in journalism, political science and public policy from Lehigh University.
 - Currently burying myself in housing policy. 
 - Avid golfer! 
-- For futher details about my professional experience click [here](https://docs.google.com/document/d/e/2PACX-1vRGIZQFLIRe9USKOFvUnBl4G4P3v9MQz85ChKTRfCtlKIL5qEJDqngoZzkjtSxvYq0gE6D5vptzqPFB/pub)
+- For futher details about my professional experience click [here](https://docs.google.com/document/d/e/2PACX-1vTh1y7zzGoZXxceVpGYYA3VZwqbFdBXfgtxq6ZhMItMlPcW845aJXOmN8pJXZg_MHifZHeflTndx3wi/pub)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
